@@ -9,3 +9,4 @@ POPIS DATOTEK:
 - AMS/models/ams-unet1-1-192-192-1-f16-j.h5 # shranjen model, pridobljen z beležko Seminar_UNET_abs.ipynb
 - AMS/models/ams-unet1-1-192-192-2-f16-j.h5 # shranjen model, pridobljen z beležko Seminar_UNET_rel.ipynb
 - AMS/data/README.txt # Opis podatkov (zaradi velikosti sama zbirka ni bila naložena na repozitorij.
+
