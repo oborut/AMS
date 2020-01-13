@@ -16,7 +16,7 @@ OPIS ZGRADBE BELEŽK Seminar_UNET_abs.ipynb IN Seminar_UNET_rel-ipynb:
 1. INICIALIZACIJA
 - Nalaganje knjižnic (vključno z lastno knjižnico amslib_seminar.py)
 - Inicializacija parametrov.
-- OPOMBA: Vsi nastavljivi parametri se nahajajo v tej celici (z izjemo parametra za uteževanje kategorij BETA, ki je definiran znotraj kriterijske funkcije weighted_crossentropy().
+- OPOMBA: vsi nastavljivi parametri se nahajajo v tej celici (z izjemo parametra za uteževanje kategorij BETA, ki je definiran znotraj kriterijske funkcije weighted_crossentropy().
 
 2. PRIPRAVA PODATKOV
 - Nalaganje in priprava izhodnih podatkov.
