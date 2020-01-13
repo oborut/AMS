@@ -28,7 +28,9 @@ OPOMBA: Vsi nastavljivi parametri se nahajajo v tej celici (z izjemo parametra z
 - Izgradnja novega modela s klicem izbrane funkcije.
 - Prevajanje modela v strojno kodo s funkcijo compile().
 - Učenje modela s funkcijo fit() in shranjevanje modela.
+OPOMBA: tega dela ni potrebno vsakič zaganjati, saj sta najboljša modela, pridobljena s posamezno beležko, že shranjena v mapi "models".
 
 4. VREDNOTENJE MODELA
 - Vrednotenje razgradnje (Diceov koeficient, razlika volumnov)
 - Vrednotenje razvrščanja (točnost, občutljivost, specifičnost, ROC AUC)
+OPOMBA: modeli se direktno naložijo iz mape "models".
