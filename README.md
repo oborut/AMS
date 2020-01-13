@@ -1,4 +1,5 @@
 ANALIZA MEDICINSKIH SLIK 2019-2020
+
 SEMINARSKA NALOGA: Zaznavanje sprememb lezij v MR slikah glave z nevronskimi mrežami
 
 POPIS DATOTEK:
